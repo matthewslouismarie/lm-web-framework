@@ -1,12 +1,8 @@
 {
-    "name": "matthewslouismarie/lm-web-framework",
+    "name": "matthewslouismarie/lm-web-frameworkgit",
     "version": "1.0.0",
     "dist": {
         "url": "https://github.com/matthewslouismarie/lm-web-framework/archive/master.zip",
-        "type": "zip"
-    },
-    "dev": {
-        "url": "https://github.com/matthewslouismarie/lm-web-framework/archive/dev.zip",
         "type": "zip"
     }
 }
