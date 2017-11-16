@@ -1,7 +1,0 @@
-{
-    "packages": {
-        "matthewslouismarie/lm-web-framework": {
-            "dev-master": { "composer.json" }
-        }
-    }
-}
