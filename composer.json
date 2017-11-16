@@ -4,5 +4,9 @@
     "dist": {
         "url": "https://github.com/matthewslouismarie/lm-web-framework/archive/master.zip",
         "type": "zip"
+    },
+    "dev": {
+        "url": "https://github.com/matthewslouismarie/lm-web-framework/archive/dev.zip",
+        "type": "zip"
     }
 }
