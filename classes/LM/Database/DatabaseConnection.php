@@ -34,7 +34,8 @@ class DatabaseConnection {
     public static function getInstance(): DatabaseConnection
     {
         if (null === self::$instance) {
-            self::$instance = new Databaseconnection('mysql-shift-two.alwaysdata.net', 'shift-two_pdm', 'shift-two_pdm', 'pompompidou'); // TODO: hard-coded values
+			$db = json_decode(file_get_contents('db.json'), true);
+            self::$instance = new Databaseconnection($db['host'], $db['db'], $db['username'], $db['password']);
         }
         return self::$instance;
     }
