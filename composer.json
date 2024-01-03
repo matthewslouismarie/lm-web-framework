@@ -1,11 +1,23 @@
 {
+    "authors": [
+        {
+            "name": "Louis-Marie Matthews",
+            "role": "Developer"
+        }
+    ],
     "name": "matthewslouismarie/lm-web-framework",
-    "description": "Simple web framework.",
+    "description": "Lightweight web framework that doesn’t require tons of dependencies and keeps you in control.",
     "autoload": {
         "psr-4": {
             "LM\\WebFramework\\": "src/"
         }
     },
+    "keywords": [
+        "web",
+        "framework",
+        "lightweight"
+    ],
+    "license": "MIT",
     "require": {
         "php-di/php-di": "^7.0",
         "guzzlehttp/guzzle": "^7.8"
