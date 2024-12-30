@@ -1,5 +1,4 @@
-[![PHPUnit](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/php-ci.yml/badge.svg)](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/php-ci.yml)
-[![PHPStan](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpstan.yml/badge.svg)](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpstan.yml)
+[![PHP CS Fixer](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/php-cs-fixer.yml)
 
 # lm-web-framework
 
