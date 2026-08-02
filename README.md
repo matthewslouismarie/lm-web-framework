@@ -1,8 +1,8 @@
-[![PHP_CodeSniffer](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpcs.yml/badge.svg)](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpcs.yml)
-[![PHPUnit](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpunit.yml/badge.svg)](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpunit.yml)
-[![PHPStan](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpstan.yml/badge.svg)](https://github.com/matthewslouismarie/lm-web-framework/actions/workflows/phpstan.yml)
+[![PHP_CodeSniffer](https://github.com/lmwf-team/lmwf/actions/workflows/phpcs.yml/badge.svg)](https://github.com/lmwf-team/lmwf/actions/workflows/phpcs.yml)
+[![PHPUnit](https://github.com/lmwf-team/lmwf/actions/workflows/phpunit.yml/badge.svg)](https://github.com/lmwf-team/lmwf/actions/workflows/phpunit.yml)
+[![PHPStan](https://github.com/lmwf-team/lmwf/actions/workflows/phpstan.yml/badge.svg)](https://github.com/lmwf-team/lmwf/actions/workflows/phpstan.yml)
 
-# lm-web-framework
+# LMWF
 
 Lightweight web framework that doesn’t require tons of dependencies and keeps you in control.
 
@@ -10,7 +10,7 @@ Lightweight web framework that doesn’t require tons of dependencies and keeps 
 
 # Security
 
- - Deactivate `display_errors` and `display_warnings`. `lm-web-framework` does not take care of that for you.
+ - Deactivate `display_errors` and `display_warnings`. `LMWF` does not take care of that for you.
 
 ## TODO
 
